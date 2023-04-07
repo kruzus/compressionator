@@ -1,0 +1,30 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Editor/IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Logs and backups
+logs/
+*.log
+*.log.*
+*.bak
+
+# Build output
+dist/
+build/
+
+# Environment variables
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
